@@ -7,7 +7,6 @@ brew install opencv --with-java --with-contrib
 ~~~
 ## mkdir
 ~~~
-mkdir -p opencv31_test && cd opencv31_test
 mkdir project
 mkdir lib
 mkdir -p src/main/resources
