@@ -4,10 +4,10 @@ scalaVersion := "2.11.7"
 
 scalacOptions ++= Seq(
     "-unchecked",
-      "-deprecation",
-        "-optimize",
-          "-Xlint"
-        )
+    "-deprecation",
+    "-optimize",
+    "-Xlint"
+)
 
 javaOptions in run += "-Djava.library.path=./lib"
 
