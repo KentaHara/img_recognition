@@ -1,0 +1,8 @@
+/src/main/resources/img
+/target
+/project
+/lib
+.git
+.DS_Store
+*.swp
+*.swo
