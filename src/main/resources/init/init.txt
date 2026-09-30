@@ -1,0 +1,4 @@
+# bunner_size
+bunner_size=320,50
+
+resize_size=32,5
